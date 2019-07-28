@@ -26,3 +26,6 @@
 
 # RetDeC
 * [RetDec: An Open-Source Machine-Code Decompiler by Peter Matula](https://www.youtube.com/watch?v=jXYxPenTcHs)
+
+# Workshops
+* [Malware Unicorn's Reverse Engineering Workshops](https://malwareunicorn.org/#/workshops)
