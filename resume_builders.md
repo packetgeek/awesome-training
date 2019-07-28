@@ -18,4 +18,4 @@ Following are various thoughts/recommendations for developing your resume entrie
 * Be a technical editor/reviewer for a book.  Search Google for "technical editor wanted".  This one requires some expertise in the subject but basics in other fields helps (e.g., knowing tools/fruits/targets of a crime when editing a wireless book).  It also helps to have a test range (or even just a Type 2 hypervisor).
 * Lend a hand at your local CTF event (e.g., the annual Palmetto competition in Charleston, SC).
 * Volunteer as a [RoadTester](https://www.element14.com/community/groups/roadtest?ICID=menubar_build_roadtest-reviews) (i.e., hardware reviewer) at Element14.  While most of their Road Tests require advanced training, they sometimes offer some less complicated hardware.  (I've reviewed at least one Raspberry Pi, a DLP projector, and some I2C hardware.)
-* Volunteer to support your local CyberPatriot team(s) or similar.  Those often include to specific classes (e.g., Cisco Academy).
+* Volunteer to support your local CyberPatriot team(s) or similar.  These often include access to commercial training (e.g., Cisco Academy).
