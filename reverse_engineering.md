@@ -5,12 +5,15 @@
 * [Reverse engineering challenges](https://challenges.re/) - from the author of "Reverse Engineering for Beginners"
 
 # Crackmes
-* [Radare2 - An introduction with a simple crackme - part 1](https://www.youtube.com/watch?v=8dXhrOEGHTY) - Youtube video
+* [Radare2 - An introduction with a simple crackme - part 1](https://www.youtube.com/watch?v=8dXhrOEGHTY) - Youtube video - a crackme walk-thru
+* [Ghidra keyGme Reverse Engineer and Keygen](https://www.youtube.com/watch?v=ZeUgu8-9B58) - Youtube video - a crackeme walk-thru
+* [Ghidra quickstart and tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA) - Youtube video - a crackme walk-thru
 
 # Ghidra
 * [First look at Ghidra](https://www.youtube.com/watch?v=285b_DEmvHY) - Youtube video
 * [Ghidra keyGme Reverse Engineer and Keygen](https://www.youtube.com/watch?v=ZeUgu8-9B58) - Youtube video - a crackeme walk-thru
-* [Ghidra quickstart and tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA) - Youtube video
+* [Ghidra quickstart and tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA) - Youtube video - a crackme walk-thru
+
 * [Setting up Ghidra Server](https://www.youtube.com/watch?v=MhDtaFqcLUM) - Youtube video
 * Search recommendations
 ** search Google or Youtube for: ghidra
@@ -25,7 +28,7 @@
 * [Radare2 - An introduction with a simple crackme - part 1](https://www.youtube.com/watch?v=8dXhrOEGHTY) - Youtube video
 
 # RetDeC
-* [RetDec: An Open-Source Machine-Code Decompiler by Peter Matula](https://www.youtube.com/watch?v=jXYxPenTcHs)
+* [RetDec: An Open-Source Machine-Code Decompiler by Peter Matula](https://www.youtube.com/watch?v=jXYxPenTcHs) - Youtube video
 
 # Workshops
 * [Malware Unicorn's Reverse Engineering Workshops](https://malwareunicorn.org/#/workshops)
