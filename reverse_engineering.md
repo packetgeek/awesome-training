@@ -17,8 +17,8 @@
 * [Ghidra quickstart and tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA) - Youtube video - a crackme walk-thru
 * [Setting up Ghidra Server](https://www.youtube.com/watch?v=MhDtaFqcLUM) - Youtube video
 * Search recommendations
-** search Google or Youtube for: ghidra
-** search Google or Youtube for: "ghidra" crackme
+    - search Google or Youtube for: ghidra
+    - search Google or Youtube for: "ghidra" crackme
 
 ## Other Awesome lists relating to Reverse Engineering
 * [wtsxDev's List of awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering)
