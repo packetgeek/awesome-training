@@ -6,11 +6,11 @@ Following are various thoughts/recommendations for developing your resume entrie
 * Join your local professional organizations.  While it may not qualify as a resume entry, you'll be networking with your peers, who may be looking for volunteers.
 * Join your local geeks.  Pick a topic, use it to search [MeetUp.com](https://www.meetup.com/) to see if there's an interest group near you. (I was surprised to learn that Hampton Roads had its own Docker Captain (hi Brett!)).
 
-## Training
+## Train
 * It's okay to pursue the shiny stuff but be sure to keep building towards your next degree.  If your employer supports tuition assistance, take advantage of it.  For the .mil types, if you're E-6 or below, there's no excuse (even deployment) as tuition assistance and Pell Grants will ofter cover everything but gasoline to/from evening classes.
 * Acutally read the notices from the HR and training departments.  There's usually free classes being offered.  They may not align with what you're interested in but they tend to expand your skill set.
 * Take Udemy classes.  They're usually cheap (starting at $10), quick, and cover the basics.
-* Take [Pentester Acadumy](https://www.pentesteracademy.com/topics) courses.  They cost a bit more (~$150) and cover some of the more esoteric topics.  If you can't afford the cost, read the fine print.  They often put the content on Youtube (i.e., you get the training but not the tests or certificate).
+* Take [Pentester Academy](https://www.pentesteracademy.com/topics) courses.  They cost a bit more (~$150) and cover some of the more esoteric topics.  If you can't afford the cost, read the fine print.  They often put the content on Youtube (i.e., you get the training but not the tests or certificate).
 
 ## Volunteer
 * Review others' documents
